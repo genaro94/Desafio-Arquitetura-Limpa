@@ -7,6 +7,11 @@ Implemente os testes de unidade e integração nos quatro use cases.
 * A linguagem de programação para este desafio é TypeScript
 
 
+## 2 - API Product
+Da mesma forma que fizemos a listagem dos nossos Customers em nossa API, repita o mesmo processo e realize a listagem de Products. Não deixe de realizar o teste automatizado end-to-end.
+
+* A linguagem de programação para este desafio é TypeScript
+
 ## Como usar
 Após baixar o repositório executar:
 
